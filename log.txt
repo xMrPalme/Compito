@@ -1,0 +1,103 @@
+commit 30ea722e9ad2d6b8257c0e135ae11f1ff13d64d0
+Merge: 8e981ae f76f507
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:34:35 2019 +0200
+
+    Fusione ramo Home
+
+commit 8e981ae4499b25b6ad6661ba7ce2452f4af24de2
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:28:19 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..a099bc9 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:blue;}
+\ No newline at end of file
+
+commit f76f5072f67951a01ae0aea7d4bb8dbaacb6e443
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:26:31 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit d1674027c5b40809e34ff883b394c0cd32cc7bed
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:23:48 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/WhatsApp Image 2019-02-01 at 11.25.51.jpeg b/img/WhatsApp Image 2019-02-01 at 11.25.51.jpeg
+new file mode 100644
+index 0000000..ef697cd
+Binary files /dev/null and b/img/WhatsApp Image 2019-02-01 at 11.25.51.jpeg differ
+
+commit 98aff1c1ccf11750ba44d4d1f95bcac019c19822
+Merge: 7e227cc 7a3953f
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:22:05 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 7a3953f534d51587f520d07555bc1ec86daedc7e
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:19:49 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit d80b74b1bf22ab4c393a3137bcebe0458198f16e
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:18:47 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/Compito/contatti.html b/Compito/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 1186746d75ff716f8551c18b432a6fa85eb373a5
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:16:24 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/WhatsApp Image 2019-02-01 at 11.25.00.jpeg b/img/WhatsApp Image 2019-02-01 at 11.25.00.jpeg
+new file mode 100644
+index 0000000..a0ab44b
+Binary files /dev/null and b/img/WhatsApp Image 2019-02-01 at 11.25.00.jpeg differ
+
+commit 7e227cc44a6e792f9a3650cf984c1f28f4ecf1b6
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:14:38 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/Compito/home.html b/Compito/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 15033f74ca975b0166fe971e468f5f0fe9650384
+Author: xMrPalme <studente.palmeri.gianmarco@gmail.com>
+Date:   Sat Apr 13 11:10:24 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
